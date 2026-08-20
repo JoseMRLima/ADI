@@ -1,5 +1,7 @@
 # TP ADI 2025/2026
 
+**Nota:** 15
+
 Trabalho Prático de **Aprendizagem e Decisão Inteligentes** 2025/2026.
 
 Relatório Typst: [relatório](https://typst.app/project/woxl7XUPoWfygCfS0UBHMB)
@@ -22,3 +24,4 @@ Constituintes do grupo de trabalho:
 | Guilherme Santos da Costa        | a107326 |
 | José Mário Raimundo Lima         | a106888 |
 | Pedro Nuno de Bastos Pinho Costa | a107375 |
+
